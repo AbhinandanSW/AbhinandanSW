@@ -3,6 +3,6 @@
 <br />
  
 <div >
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandan323&show_icons=true&locale=en" alt="abhinandan323" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhinandanSW&show_icons=true&locale=en" alt="AbhinandanSW" /></p>
 
 </div>
