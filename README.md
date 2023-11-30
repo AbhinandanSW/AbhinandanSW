@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center"> Namaste <img src='https://media.tenor.com/images/f83458652289855ac77a3270eb51ab9e/tenor.gif' width='50' height='50'> , I'm <em>Abhinandan</em> 👋 ! </h1>
 
-<!--
-**AbhinandanSW/AbhinandanSW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<div float="right">
+<img src="https://i.ibb.co/m95ZHMM/Blue-and-White-Architect-Linked-In-Banner-2.png" width="500" height="180" align="right">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web  Development 
+- 😄 Pronouns: He/His 
+
+ <br />
+ 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<br/>
+
+<hr>
+
+## ⚡ Technologies I Know ⚡
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+<hr>
+
+## 📉 **Github Stats**
+<div float="left">
+ <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanSW&layout=compact&theme=highcontrast&custom_title=streak-stats-ty&hide_border=true&layout=compact"  width="48%" align="center" /></a>
+<!-- <a><img src="https://github-readme-stats.vercel.app/api?username=ishangoyal13&theme=highcontrast&layout=compact&hide_border=true" align="center" width="48%"></a> -->
+</div><br />
+<!-- <div align="center">
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangoyal13&theme=highcontrast" align="center" width="35%"></a>
+ </div> -->
+ 
