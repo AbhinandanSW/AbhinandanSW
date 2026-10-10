@@ -1,24 +1,84 @@
-# 💫 About Me:
-Hi, I’m Abhinandan Goyal — a frontend-focused full stack engineer with nearly 3 years of experience building scalable, performance-optimized B2B applications.<br><br>I specialize in React, TypeScript, and modern state management, backed by strong backend experience in Node.js and Python. At WizCommerce, I’ve worked on enterprise-scale platforms, designing JSON-based rule engines, AI-powered analytics dashboards, and no-code admin tools that drive real business impact — including significant performance gains and revenue growth.<br><br>I enjoy solving complex product problems, optimizing user experience and system performance, and translating business requirements into clean, scalable technical solutions. I’ve also had the opportunity to lead and mentor engineers, collaborating closely with product and design teams to ship high-impact features.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=140&section=header&text=Abhinandan%20Goyal&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Frontend-focused%20Full%20Stack%20Engineer&descSize=16&descAlignY=58" alt="header" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandangoyal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goyalabhinandan786@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Building+scalable+B2B+products;React+%2B+TypeScript+%2B+Node.js;Rule+engines+%7C+AI+dashboards+%7C+No-code+tools)](https://github.com/AbhinandanSW)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhinandanSW&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbhinandanSW&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanSW&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandangoyal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:goyalabhinandan786@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbhinandanSW&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhinandanSW&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm a frontend-focused full stack engineer with **4+ years** of experience building scalable, performance-optimized B2B applications.
+
+I specialize in **React, TypeScript and modern state management**, backed by solid backend experience in **Node.js and Python**. At **WizCommerce** I work on enterprise-scale commerce platforms: designing JSON-based rule engines, AI-powered analytics dashboards and no-code admin tools that drive real business impact.
+
+I enjoy turning complex product problems into clean, scalable solutions, and I care a lot about performance and user experience. I've also led and mentored engineers while working closely with product and design teams to ship high-impact features.
+
+## 🚀 What I Do
+
+| | |
+|---|---|
+| 🧩 **Rule engines** | JSON-based, configurable business-rule systems |
+| 📈 **Analytics** | AI-powered dashboards for data-heavy B2B workflows |
+| 🛠️ **No-code tools** | Admin tooling that lets non-engineers ship changes |
+| ⚡ **Performance** | Profiling, optimizing and scaling large React apps |
+| 🤝 **Leadership** | Mentoring engineers, collaborating with product and design |
+
+## 💼 Experience
+
+- **Software Developer II** · WizCommerce, Gurgaon · *Jun 2023 – Present*
+- **Associate Software Engineer** · MAQ Software, Noida · *Apr 2022 – Apr 2023*
+- **B.Tech, Computer Science** · Chitkara Institute of Engineering and Technology · *2019 – 2023* · GPA 9.95 / 10
+
+## 🎬 Side Project
+
+**Pip and Milo**: a children's YouTube channel of original crochet and yarn stop-motion animated shorts.
+
+## 🧰 Tech Stack
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vite,tailwind,mui,bootstrap,jquery&perline=12" alt="frontend" />
+
+**Backend & Databases**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,postgres,mysql,mongodb,redis,supabase,firebase&perline=12" alt="backend" />
+
+**Cloud & Tooling**<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,git,github,sentry,wordpress&perline=12" alt="tooling" />
+
+**Also use:** Zustand · TanStack Query · React Hook Form · React Router · Ant Design
+
+## 📊 GitHub Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhinandanSW&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub stats" />
+    </td>
+    <td align="center" valign="top">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanSW&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=AbhinandanSW&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+</div>
+
+
+---
+
+<div align="center">
+
+⭐ Open to interesting conversations about frontend, product engineering and performance. Say hi!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=80&section=footer" alt="footer" width="100%" />
+
+</div>
