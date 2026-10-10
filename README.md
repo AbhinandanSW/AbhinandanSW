@@ -35,10 +35,6 @@ I enjoy turning complex product problems into clean, scalable solutions, and I c
 - **Associate Software Engineer** · MAQ Software, Noida · *Apr 2022 – Apr 2023*
 - **B.Tech, Computer Science** · Chitkara Institute of Engineering and Technology · *2019 – 2023* · GPA 9.95 / 10
 
-## 🎬 Side Project
-
-**Pip and Milo**: a children's YouTube channel of original crochet and yarn stop-motion animated shorts.
-
 ## 🧰 Tech Stack
 
 **Frontend**<br>
