@@ -73,6 +73,10 @@ I enjoy turning complex product problems into clean, scalable solutions, and I c
 ---
 
 <div align="center">
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](./profile/trophy.svg)
+
 
 ⭐ Open to interesting conversations about frontend, product engineering and performance. Say hi!
 
